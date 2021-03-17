@@ -1,0 +1,2 @@
+# There is an seperate `GitHub repositry` for Project Euler's problem, where each problem is explained clearly and solution is provided in both 🐍 Python and 🌐 JavaScript
+## Link for the repository - [its-me-sv/Solutions-For-Project-Euler-s-Problems](https://github.com/its-me-sv/Solutions-For-Project-Euler-s-Problems)
