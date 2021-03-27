@@ -22,3 +22,5 @@
 ## `Remove Elements` from a Linked List [Solution](21_remove_elements_from_a_linked_list.js)
 ## `Search` within a Linked List [Solution](22_search_within_a_linked_list.js)
 ## `Remove Elements` from a Linked List by `Index` [Solution](23_remove_elements_from_a_linked_list_by_index.js)
+## `Add` Elements at a Specific Index in a Linked List [Solution](24_add_elements_at_a_specific_index_in_a_linked_list.js)
+## Create a `Doubly Linked List` [Solution](25_create_a_doubly_linked_list.js)
