@@ -24,3 +24,7 @@
 ## `Remove Elements` from a Linked List by `Index` [Solution](23_remove_elements_from_a_linked_list_by_index.js)
 ## Add Elements at a `Specific Index` in a Linked List [Solution](24_add_elements_at_a_specific_index_in_a_linked_list.js)
 ## Create a `Doubly Linked List` [Solution](25_create_a_doubly_linked_list.js)
+## `Reverse` a Doubly Linked List [Solution](26_reverse_a_doubly_linked_list.js)
+## `Add` a New Element to a `Binary Search Tree` [Solution](27_add_a_new_element_to_a_binary_search_tree.js)
+## Find the `Minimum` and `Maximum` Value in a Binary Search Tree [Solution](28_find_the_minimum_and_maximum_value_in_a_binary_search_tree.js)
+## `Check` if an Element is present in a Binary Search Tree [Solution](29_check_if_an_element_is_present_in_a_binary_search_tree.js)
