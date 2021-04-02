@@ -28,3 +28,6 @@
 ## `Add` a New Element to a `Binary Search Tree` [Solution](27_add_a_new_element_to_a_binary_search_tree.js)
 ## Find the `Minimum` and `Maximum` Value in a Binary Search Tree [Solution](28_find_the_minimum_and_maximum_value_in_a_binary_search_tree.js)
 ## `Check` if an Element is present in a Binary Search Tree [Solution](29_check_if_an_element_is_present_in_a_binary_search_tree.js)
+## `Check` if Tree is Binary Search Tree [Solution](30_check_if_tree_is_binary_search_tree.js)
+## Find the `Minimum and Maximum Height` of a Binary Search Tree [Solution](31_find_the_minimum_and_maximum_height_of_a_binary_search_tree.js)
+## Use `Depth First Search` in a Binary Search Tree [Solution](32_use_depth_first_search_in_a_binary_search_tree.js)
