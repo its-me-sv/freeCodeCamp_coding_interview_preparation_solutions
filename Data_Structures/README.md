@@ -31,3 +31,5 @@
 ## `Check` if Tree is Binary Search Tree [Solution](30_check_if_tree_is_binary_search_tree.js)
 ## Find the `Minimum and Maximum Height` of a Binary Search Tree [Solution](31_find_the_minimum_and_maximum_height_of_a_binary_search_tree.js)
 ## Use `Depth First Search` in a Binary Search Tree [Solution](32_use_depth_first_search_in_a_binary_search_tree.js)
+## Use `Breadth First Search` in a Binary Search Tree [Solution](33_use_breadth_first_search_in_a_binary_search_tree.js)
+## `Delete` a Leaf Node in an Binary Search Tree [Solution](34_delete_a_leaf_node_in_a_binary_search_tree.js)
