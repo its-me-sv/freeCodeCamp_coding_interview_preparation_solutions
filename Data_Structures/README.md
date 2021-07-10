@@ -33,3 +33,5 @@
 ## Use `Depth First Search` in a Binary Search Tree [Solution](32_use_depth_first_search_in_a_binary_search_tree.js)
 ## Use `Breadth First Search` in a Binary Search Tree [Solution](33_use_breadth_first_search_in_a_binary_search_tree.js)
 ## `Delete` a Leaf Node in an Binary Search Tree [Solution](34_delete_a_leaf_node_in_a_binary_search_tree.js)
+## `Delete` a Leaf Node with `One` child in an Binary Search Tree [Solution](35_delete_a_node_with_one_child_in_a_binary_search_tree.js)
+## `Delete` a Leaf Node with `Twi` child in an Binary Search Tree [Solution](36_delete_a_node_with_two_children_in_a_binary_search_tree.js)
