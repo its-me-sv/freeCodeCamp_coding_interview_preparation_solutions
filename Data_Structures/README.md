@@ -37,3 +37,4 @@
 ## `Delete` a Leaf Node with `Two` child in an Binary Search Tree [Solution](36_delete_a_node_with_two_children_in_a_binary_search_tree.js)
 ## `Invert` a Binary Tree [Solution](37_invert_a_binary_tree.js)
 ## Create a `Trie` Search Tree [Solution](38_create_a_trie_search_tree.js)
+## `Insert` an Element into a `Max Heap` [Solution](39_insert_element_into_max_heap.js)
