@@ -38,3 +38,4 @@
 ## `Invert` a Binary Tree [Solution](37_invert_a_binary_tree.js)
 ## Create a `Trie` Search Tree [Solution](38_create_a_trie_search_tree.js)
 ## `Insert` an Element into a `Max Heap` [Solution](39_insert_element_into_max_heap.js)
+## `Remove` an Element from `Max Heap` [Solution](40_remove_an_element_from_max_heap.js)
