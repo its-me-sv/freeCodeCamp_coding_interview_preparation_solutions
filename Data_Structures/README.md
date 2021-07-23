@@ -42,3 +42,4 @@
 ## Implement `Heap Sort` with a `Min Heap` [Solution](41_implement_heap_sort_with_a_min_heap.js)
 ## Adjacency List [Solution](42_adjacency_list.js)
 ## Adjacency Matrix [Solution](43_adjacency_matrix.js)
+## Incidence Matrix [Solution](44_incidence_matrix.js)
