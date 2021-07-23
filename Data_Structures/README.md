@@ -43,3 +43,4 @@
 ## Adjacency List [Solution](42_adjacency_list.js)
 ## Adjacency Matrix [Solution](43_adjacency_matrix.js)
 ## Incidence Matrix [Solution](44_incidence_matrix.js)
+## Breadth First Search [Solution](45_breadth_first_search.js)
